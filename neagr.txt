@@ -4,6 +4,3 @@ neagr
 
 sdf
 
-s
-sdfsf
-asda
